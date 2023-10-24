@@ -7,3 +7,5 @@ This per of the project is built using React JS and is responsible to render the
 1. Open a terminal at the root of the client project.
 2. Ensure that the server side project is running.
 3. Run the command `npm start`. The project would start running in the default port `localhost:3000`.
+
+The backend of this project can be found [here.](https://github.com/oindrila-b/job_portal_system)
