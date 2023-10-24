@@ -15,7 +15,7 @@ class AppliedSuccessComponent extends Component {
             <div>
                 <h1>
                     <center>
-                        Application Submitted Successfully
+                        Application Submitted Successfully!!
                     </center>
                 </h1>
             </div>
